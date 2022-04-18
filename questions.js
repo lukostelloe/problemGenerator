@@ -1,18 +1,18 @@
 const questions = {
   easy: {
-    one: "easy one",
-    two: "easy two",
-    three: "easy three",
+    one: "create an array (easy)",
+    two: "create an object (easy)",
+    three: "create a button (easy)",
   },
   medium: {
-    one: "medium one",
-    two: "medium two",
-    three: "medium three",
+    one: "question one (medium)",
+    two: "question two (medium)",
+    three: "question three (medium)",
   },
   hard: {
-    one: "hard one",
-    two: "hard two",
-    three: "hard three",
+    one: "hard question one",
+    two: "hard question two",
+    three: "hard question three",
   },
 };
 
